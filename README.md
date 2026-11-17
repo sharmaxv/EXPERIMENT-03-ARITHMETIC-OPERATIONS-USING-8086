@@ -1,9 +1,9 @@
 # EXPERIMENT 3 :8086 MICROPROCESSOR – BASIC ARITHMETIC OPERATIONS
 
-## DATE:
-## NAME:
-## ROLL NUMBER:
-## DEPARTMENT:
+## DATE: 17-11-2026
+## NAME: Vageesha Sharma
+## ROLL NUMBER:RA2511030010361
+## DEPARTMENT: nwc cse cybersecurity
 
 ---
 
@@ -201,27 +201,22 @@ HLT
 
 ### FIGURE-01: ADDITION OUTPUT
 
-Upload the addition program execution screenshot here.
-
-![Addition Output](img/addition.png)
+<img width="241" height="241" alt="image" src="https://github.com/user-attachments/assets/61d04d01-5616-48cc-a842-66ca48982c92" />
 
 ### FIGURE-02: SUBTRACTION OUTPUT
 
-Upload the subtraction program execution screenshot here.
+<img width="252" height="236" alt="image" src="https://github.com/user-attachments/assets/a110afed-e74f-44fd-a6c9-78e12220cb59" />
 
-![Subtraction Output](img/subtraction.png)
 
 ### FIGURE-03: MULTIPLICATION OUTPUT
 
-Upload the multiplication program execution screenshot here.
+<img width="245" height="203" alt="image" src="https://github.com/user-attachments/assets/5a9a1e51-7c47-42ee-99b2-e1ea8b725ac1" />
 
-![Multiplication Output](img/multiplication.png)
 
 ### FIGURE-04: DIVISION OUTPUT
 
-Upload the division program execution screenshot here.
+<img width="241" height="191" alt="image" src="https://github.com/user-attachments/assets/df68f2cf-50ce-4b60-95c6-7903f8ffe520" />
 
-![Division Output](img/division.png)
 
 ## RESULT:
 
